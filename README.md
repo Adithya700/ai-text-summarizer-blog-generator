@@ -112,5 +112,6 @@ curl -X POST http://127.0.0.1:5000/blog \
 ```
 
 
-##Author
+## Author
+
 ADITHYA K S
