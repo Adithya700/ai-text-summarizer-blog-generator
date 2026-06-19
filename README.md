@@ -110,7 +110,7 @@ curl -X POST http://127.0.0.1:5000/blog \
 -H "Content-Type: application/json" \
 -d '{"topic":"Future of AI"}'
 ```
-Input must be valid JSON
 
-##Author##
+
+##Author
 ADITHYA K S
